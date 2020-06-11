@@ -1,6 +1,6 @@
 ## Air Quality Prediction of Relative Humidity - Regression
 
-The dataset contains 9358 instances of hourly averaged responses from an array of 5 metal oxide chemical sensors embedded in an Air Quality Chemical Multisensor Device. The device was located on the field in a significantly polluted area, at road level. Data were recorded for a period of one year (March 2004 - February 2005) in an Italian city.
+The dataset contains 9358 instances of hourly averaged responses from an array of 5 metal oxide chemical sensors embedded in an Air Quality Chemical Multisensor Device. The device was located on the field in a significantly polluted area, at road level. Data were recorded for a period of one year (March 2004 - February 2005) in an Italian city. [(Dataset)](https://archive.ics.uci.edu/ml/datasets/Air+Quality#:~:text=The%20dataset%20contains%209358%20instances,Air%20Quality%20Chemical%20Multisensor%20Device.&text=This%20dataset%20can%20be%20used,Commercial%20purposes%20are%20fully%20excluded.)
 
 ## Features
 
